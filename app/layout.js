@@ -1,5 +1,5 @@
 import './globals.css'
-import NavBar from './components/NavBar'
+import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 export const metadata = {
@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="bg-gray-50">
-        <NavBar />
+        <Navbar />
         
         <main className="flex-grow">
           {children}
