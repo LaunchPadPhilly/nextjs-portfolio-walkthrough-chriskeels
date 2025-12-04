@@ -7,7 +7,7 @@ export default function Home() {
         <div className="max-w-4xl w-full text-center">
           <div className="mb-12">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 text-blue-600">
-              Hi, I'm Chris K!
+              Hi, I&apos;m Chris K!
             </h1>
             
             <p className="text-lg sm:text-xl text-gray-700 mb-12 leading-relaxed">
@@ -54,10 +54,10 @@ export default function Home() {
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
               This is a showcase of my web development journey. Explore my projects, learn more about me, 
-              and feel free to reach out if you'd like to collaborate or discuss opportunities.
+              and feel free to reach out if you&apos;d like to collaborate or discuss opportunities.
             </p>
             <p className="text-gray-500 text-sm">
-              💡 Tip: Check out my projects to see what I've been working on!
+              💡 Tip: Check out my projects to see what I&apos;ve been working on!
             </p>
           </div>
         </div>

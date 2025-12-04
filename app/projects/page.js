@@ -86,7 +86,7 @@ export default function Projects() {
             <li>✏️ Add real images or screenshots (save to public/ folder)</li>
             <li>✏️ Update descriptions to match your projects</li>
             <li>✏️ Add links to GitHub repos or live demos</li>
-            <li>✏️ Mark projects as "Coming Soon" when working on them</li>
+            <li>✏️ Mark projects as &quot;Coming Soon&quot; when working on them</li>
           </ul>
         </div>
       </div>

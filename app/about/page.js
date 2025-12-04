@@ -31,14 +31,14 @@ export default function About() {
           {/* Bio */}
           <div className="md:col-span-2">
             <div className="bg-white rounded-xl shadow-md p-8">
-              <h2 className="text-3xl font-bold mb-4 text-gray-900">Hi, I'm Chris!</h2>
+              <h2 className="text-3xl font-bold mb-4 text-gray-900">Hi, I&apos;m Chris!</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                I'm a passionate developer learning web technologies. I love building interactive 
-                websites and solving problems with code. I'm currently focused on learning Next.js 
+                I&apos;m a passionate developer learning web technologies. I love building interactive 
+                websites and solving problems with code. I&apos;m currently focused on learning Next.js 
                 and modern web development practices.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                My goal is to create beautiful, functional websites that help people. I'm always 
+                My goal is to create beautiful, functional websites that help people. I&apos;m always 
                 eager to learn new technologies and improve my skills.
               </p>
             </div>

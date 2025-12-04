@@ -45,7 +45,7 @@ export default function Contact() {
           Get In Touch
         </h1>
         <p className="text-xl text-gray-600 mb-12">
-          I'd love to hear from you! Reach out through any of these channels.
+          I&apos;d love to hear from you! Reach out through any of these channels.
         </p>
 
         {/* Contact Grid */}
@@ -75,11 +75,11 @@ export default function Contact() {
         {/* Info Box */}
         <div className="bg-white rounded-xl shadow-md p-8 border-l-4 border-blue-500 mb-8">
           <h2 className="text-2xl font-bold mb-4 text-gray-900">
-            Let's collaborate!
+            Let&apos;s collaborate!
           </h2>
           <p className="text-gray-600 leading-relaxed mb-4">
             Whether you have a project idea, want to discuss web development, or just want to say hello, 
-            I'd be delighted to hear from you! Don't hesitate to reach out through any of the channels above.
+            I&apos;d be delighted to hear from you! Don&apos;t hesitate to reach out through any of the channels above.
           </p>
           <p className="text-gray-500 text-sm">
             I typically respond within 24-48 hours. Looking forward to connecting with you!
